@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-postfind",
+  "name": "@jasony/mongoose-post-find",
   "version": "0.0.1",
   "description": "A Mongoose plugin that lets you modify the results of a Mongoose Find or FindOne",
   "main": "mongoose-postfind.js",
