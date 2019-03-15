@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-postfind",
+  "version": "0.0.1",
+  "description": "A Mongoose plugin that lets you modify the results of a Mongoose Find or FindOne",
+  "main": "mongoose-postfind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-norwood-young/mongoose-postfind.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "Jason Norwood-Young <jason@10layer.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-norwood-young/mongoose-postfind/issues"
+  },
+  "homepage": "https://github.com/j-norwood-young/mongoose-postfind#readme"
+}
